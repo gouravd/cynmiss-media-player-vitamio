@@ -1,4 +1,6 @@
-package com.iplay;
+package com.iplayer;
+
+import com.iplay.R;
 
 import android.app.Activity;
 import android.os.Bundle;
